@@ -15,7 +15,7 @@ This story is based on a war between two countries.
 * The hero can also be moved using the arrow keys. 
 * The wepons can be fired using the *F* key.
 
-## Balance(not too easy or to dificult)
+## Balance(not too easy or too dificult)
 * The hero will receive a weapon upgrade after every stage in which he wins.
 * He will also have three lives.
 * There will be more number of enemies and all of them will have a weapon.
